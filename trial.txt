@@ -1,2 +1,3 @@
 updated from the feature1
 update from the master
+new line added from feature1
