@@ -1,2 +1,3 @@
 updated from the feature1
 new line added from feature1
+new line added
